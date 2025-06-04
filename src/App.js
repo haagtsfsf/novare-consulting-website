@@ -1,21 +1,3 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import "./index.css";
-import App from "./App";
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-);
-```
-
-### **Create src/App.js**
-1. **Create new file**: `App.js`
-2. **Copy and paste this content**:
-
-```javascript
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
@@ -44,4 +26,3 @@ function App() {
 }
 
 export default App;
-
