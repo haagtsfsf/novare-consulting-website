@@ -11,7 +11,7 @@ const Team = () => {
       name: "Joost van der Linden",
       title: "Founder & Senior Partner",
       email: "j.vanderlinden@novareconsultinggroup.com",
-      photo: "/images/Joost-van-der-linden.png",
+      photo: "/images/Joost-van-der-Linden.png",
       shortBio: "Joost is the founder of Novare Consulting Group and a leading expert in restructuring and legal advisory for SMEs. With sharp strategic insight and deep empathy, he supports business owners through financial crises with clarity and care. Clients often say, \"We wish we had contacted you sooner.\"",
       longBio: "Joost van der Linden is the founder and senior partner of Novare Consulting Group, where he leads restructuring and legal advisory for SMEs in crisis. His career is defined by the ability to quickly assess complex situations and craft clear, practical solutions. He combines sharp analytical skills with deep human empathy—understanding the emotional toll financial stress takes on business owners and teams.\n\nHe has guided numerous companies through reorganization and legal restructuring, earning a reputation for calm, strategic leadership under pressure. Joost provides not only effective business strategies but also personal reassurance. His work helps clients regain direction and confidence when it matters most. The feedback he hears most? \"We wish we had contacted you sooner.\"",
       expertise: ["Restructuring", "Legal Advisory", "Crisis Strategy"]
