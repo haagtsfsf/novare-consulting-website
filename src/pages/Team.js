@@ -11,7 +11,7 @@ const Team = () => {
       name: "Joost van der Linden",
       title: "Founder & Senior Partner",
       email: "j.vanderlinden@novareconsultinggroup.com",
-      photo: "/images/team/joost-van-der-linden.png",
+      photo: "/images/Joost-van-der-linden.png",
       shortBio: "Joost is the founder of Novare Consulting Group and a leading expert in restructuring and legal advisory for SMEs. With sharp strategic insight and deep empathy, he supports business owners through financial crises with clarity and care. Clients often say, \"We wish we had contacted you sooner.\"",
       longBio: "Joost van der Linden is the founder and senior partner of Novare Consulting Group, where he leads restructuring and legal advisory for SMEs in crisis. His career is defined by the ability to quickly assess complex situations and craft clear, practical solutions. He combines sharp analytical skills with deep human empathy—understanding the emotional toll financial stress takes on business owners and teams.\n\nHe has guided numerous companies through reorganization and legal restructuring, earning a reputation for calm, strategic leadership under pressure. Joost provides not only effective business strategies but also personal reassurance. His work helps clients regain direction and confidence when it matters most. The feedback he hears most? \"We wish we had contacted you sooner.\"",
       expertise: ["Restructuring", "Legal Advisory", "Crisis Strategy"]
@@ -21,7 +21,7 @@ const Team = () => {
       name: "Jan de Vries",
       title: "Founder & Senior Partner",
       email: "j.devries@novareconsultinggroup.com",
-      photo: "/images/team/jan-de-vries.png",
+      photo: "/images/Jan-de-Vries.png",
       shortBio: "Jan is co-founder of Novare Consulting Group and an expert in financial restructuring and crisis support for SMEs. He is known for his calm, focused approach, helping entrepreneurs regain control, stability, and strategic clarity in turbulent times.",
       longBio: "As co-founder and senior partner of Novare Consulting Group, Jan de Vries brings over 20 years of experience in financial restructuring and strategic crisis management. He works closely with SMEs to analyze structures, negotiate with creditors, and develop realistic, sustainable turnaround plans.\n\nJan is highly regarded for his composed presence and clear communication. He excels at guiding clients through uncertainty—balancing financial logic with a deep understanding of people. Entrepreneurs value his ability to restore calm and focus during high-pressure situations.\n\nAt Novare, Jan leads multiple crisis response teams and contributes to long-term recovery strategies. His insight, experience, and reassuring leadership make him a trusted guide for businesses navigating critical phases.",
       expertise: ["Financial Restructuring", "Crisis Management", "Strategy"]
@@ -31,7 +31,7 @@ const Team = () => {
       name: "Constantijn van Heumen",
       title: "Tax Advisor",
       email: "c.vanheumen@novareconsultinggroup.com",
-      photo: "/images/team/constantijn-van-heumen.png",
+      photo: "/images/Constantijn-van-Heumen.png",
       shortBio: "Constantijn specializes in tax resolution and negotiations with the Dutch Tax Authority. He brings clarity and structure to complex tax problems, helping entrepreneurs regain control and avoid escalation.",
       longBio: "Constantijn van Heumen is a tax advisor at Novare Consulting Group, focused on resolving tax issues for companies under financial pressure. He works closely with the Dutch Tax Authority on behalf of clients, negotiating payment arrangements and reducing risk.\n\nHis strength lies in turning complexity into clarity. With a strong legal and fiscal background, he assesses risks and builds workable solutions that avoid escalation. Clients trust his pragmatic mindset, attention to detail, and ability to communicate clearly.\n\nAt Novare, Constantijn leads all tax-related matters in restructuring projects, providing essential guidance at the intersection of law, finance, and compliance.",
       expertise: ["Tax Resolution", "Dutch Tax Authority Negotiation"]
@@ -41,7 +41,7 @@ const Team = () => {
       name: "Sanne Walkis",
       title: "Financial Specialist – Accounts Receivable",
       email: "s.walkis@novareconsultinggroup.com",
-      photo: "/images/team/sanne-walkis.png",
+      photo: "/images/Sanne-Walkis.png",
       shortBio: "Sanne supports SMEs in recovering outstanding invoices and improving cash flow. With a practical and firm approach, she strengthens financial stability without damaging client relationships.",
       longBio: "Sanne Walkis is a specialist in accounts receivable and cash flow recovery at Novare Consulting Group. She helps companies regain control over delayed payments, strained customer accounts, and liquidity challenges.\n\nWith strong process insight and communication skills, she builds payment plans and designs collection strategies tailored to each client. Sanne is known for her fair yet firm approach, improving outcomes while preserving business relationships.\n\nHer work reduces financial pressure and improves daily operations. Within Novare, she leads initiatives in payment negotiations and receivables optimization—restoring breathing room for struggling businesses.",
       expertise: ["Accounts Receivable", "Collections", "Cash Flow"]
@@ -51,7 +51,7 @@ const Team = () => {
       name: "Elise Marquet",
       title: "International Legal & Tax Consultant",
       email: "e.marquet@novareconsultinggroup.com",
-      photo: "/images/team/elise-marquet.png",
+      photo: "/images/Elise-Marquet.png",
       shortBio: "Elise is an expert in international tax and legal structuring. She supports companies with cross-border operations by simplifying complex matters and offering clear, strategic advice tailored to global challenges.",
       longBio: "Elise Marquet is an international legal and tax consultant at Novare Consulting Group. She specializes in cross-border legal structures, compliance, and tax optimization for companies with international scope.\n\nHer expertise includes treaty application, corporate structuring, and transfer pricing. With a calm, professional presence, Elise simplifies complex legal frameworks and helps clients build sustainable international operations.\n\nClients appreciate her ability to balance technical precision with practical advice. At Novare, she leads all international projects, focusing on risk management, regulatory alignment, and growth strategy across jurisdictions.",
       expertise: ["International Tax", "Legal Structuring", "Risk Management"]
@@ -61,7 +61,7 @@ const Team = () => {
       name: "Sophie Boeren",
       title: "Client Relations & Communications Manager",
       email: "s.boeren@novareconsultinggroup.com",
-      photo: "/images/team/sophie-boeren.png",
+      photo: "/images/Sophie-Boeren.png",
       shortBio: "Sophie is Novare's first point of contact and manages all communication with clarity and care. She ensures that clients feel informed, respected, and supported from first contact to resolution.",
       longBio: "Sophie Boeren is the communications manager at Novare Consulting Group. She handles all client interactions—ensuring entrepreneurs feel heard, informed, and supported at every stage of the process.\n\nHer background in communication and service allows her to translate complex topics into accessible language. She brings empathy, precision, and structure to conversations, even in sensitive situations.\n\nAt Novare, Sophie plays a key role in shaping the client experience. Her calm demeanor and clear communication help clients stay grounded and confident throughout challenging processes.",
       expertise: ["Client Communication", "Relationship Management"]
@@ -71,7 +71,7 @@ const Team = () => {
       name: "Jifke van Gils",
       title: "Psychologist & Business Consultant",
       email: "j.vangils@novareconsultinggroup.com",
-      photo: "/images/team/jifke-van-gils.png",
+      photo: "/images/Jifke-van-Gils.png",
       shortBio: "Jifke supports entrepreneurs and teams during transitions. She combines psychological insight with business acumen to improve communication, restore trust, and strengthen resilience in times of change.",
       longBio: "Jifke van Gils is a psychologist and business consultant at Novare Consulting Group. She focuses on the human side of restructuring—helping entrepreneurs and teams deal with stress, uncertainty, and leadership challenges.\n\nHer background in organizational psychology gives her a unique edge in high-pressure environments. Jifke provides support around communication, trust rebuilding, and team dynamics—bringing structure and clarity during difficult transitions.\n\nShe is valued for her empathetic yet grounded approach, making complex emotional processes easier to navigate. At Novare, she leads the psychological support for restructuring projects and crisis leadership.",
       expertise: ["Organizational Psychology", "Leadership", "Resilience"]
@@ -81,7 +81,7 @@ const Team = () => {
       name: "Quirine de Vries",
       title: "Legal Specialist – Bankruptcy Law",
       email: "q.devries@novareconsultinggroup.com",
-      photo: "/images/team/quirine-de-vries.png",
+      photo: "/images/Quirine-de-Vries.png",
       shortBio: "Quirine advises SMEs on bankruptcy and liability risk. She helps businesses avoid insolvency, limit exposure, and regain control through strategic legal planning.",
       longBio: "Quirine de Vries is a legal expert in insolvency and bankruptcy law at Novare Consulting Group. She supports entrepreneurs at critical legal turning points—analyzing risks, protecting directors, and exploring paths forward through WHOA or restructuring.\n\nHer advice is clear, grounded, and practical. Quirine is known for her legal accuracy and ability to stay calm and solution-focused, even under intense pressure.\n\nShe leads legal workstreams around insolvency risk, liability protection, and creditor negotiations. Her guidance often makes the difference between crisis and recovery.",
       expertise: ["Insolvency Law", "Liability", "Crisis Legal Strategy"]
@@ -91,7 +91,7 @@ const Team = () => {
       name: "Meike Tonis",
       title: "Office Manager",
       email: "m.tonis@novareconsultinggroup.com",
-      photo: "/images/team/meike-tonis.png",
+      photo: "/images/Meike-Tonis.png",
       shortBio: "Meike keeps Novare's daily operations running smoothly. She brings structure, calm, and reliability—supporting consultants and clients with seamless coordination.",
       longBio: "Meike Tonis is the office manager at Novare Consulting Group. She oversees operations, planning, and internal coordination—keeping everything on track behind the scenes.\n\nKnown for her calm professionalism and hands-on mentality, Meike manages logistics, supports consultants, and ensures that the work environment stays efficient and focused.\n\nClients and colleagues alike rely on her for consistency, clarity, and trust. Meike plays a vital role in creating the foundation where others can focus, serve, and deliver.",
       expertise: ["Office Management", "Operations", "Internal Coordination"]
